@@ -8,10 +8,6 @@ A simple **Pawn Shop** job/resource for FiveM built on **QBCore**. It adds:
 - Two stashes: **Job Stash** (shared while on duty) and **Personal Stash**
 - Optional Discord logging for **Sales**, **Exchanges**, and **Stash** activity (via webhooks)
 
-> ⚠️ This version is **fully English**. Non‑English comments/labels have been translated.
-> ⚠️ Replace any `YOUR_WEBHOOK_URL_HERE` in `config.lua` with your **own** Discord webhook URLs.
-> ⚠️ The original files you provided appear to have a few truncated sections. The code here mirrors your structure and comments one‑to‑one, but you may still need to complete any missing logic in your original `server.lua` if it was incomplete in the upload.
-
 ## Requirements
 
 - `qb-core`
@@ -132,4 +128,4 @@ You can brand the embed with `Config.LogBrand` (`name`, optional `icon`).
 ## Credits
 
 - Original author: **iliyayz**
-- English translation & README: **this commit**
+
