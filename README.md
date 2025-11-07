@@ -129,3 +129,5 @@ You can brand the embed with `Config.LogBrand` (`name`, optional `icon`).
 
 - Original author: **iliyayz**
 
+note: dont forget to add job in qbcore/shared/jobs and qb-managment
+
